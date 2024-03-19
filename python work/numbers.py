@@ -1,3 +1,5 @@
+
+from math import * 
 # number = 79
 # print(number)
 # print(78)
@@ -21,3 +23,6 @@ print(min(2,3,43,6))
 print(round(3.5))
 #converting the number into binary string form
 print(bin(334))
+
+#using math functions by importing the functions
+print(sqrt(100))
