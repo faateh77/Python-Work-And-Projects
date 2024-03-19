@@ -1,0 +1,5 @@
+name = input("Enter the name")
+age = int(input("Enter the age"))
+# print(age)
+# print(name)
+print("Your name is" + name + " " + "and you are " , age , "years old")
